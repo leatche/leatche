@@ -1,11 +1,13 @@
 # Hi 👋, I'm Léa
 
-**Software engineering and computer science student at 42 Nice currently working on Transcendance**
+**Software engineering and computer science student at 42 Nice**
 
-- 🌱 I'm currently learning **React**
+- 🌱 I'm currently learning **React and C++**
 
+## 🙋‍♀️ About me
 
----
+Lately I've been really into frontend development — working on **Transcendance**, a React-based Baby-foot tournament app, made me fall in love with the reactive side of the web. Building interfaces that respond instantly to the user just clicks for me.
+
 
 **Languages and Tools:**
 
